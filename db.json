@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Hello",
+      "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGxhbnR8ZW58MHx8MHx8&w=1000&q=80",
+      "price": 95.23,
+      "id": 8
+    },
+    {
+      "name": "Image2",
+      "image": "https://st.depositphotos.com/1055085/3389/i/600/depositphotos_33897773-stock-photo-artificial-tree.jpg",
+      "price": 45.23,
+      "id": 9
+    },
+    {
+      "name": "Plant3",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fvader-prod.s3.amazonaws.com%2F1627652416-Bird-of-Paradise_746d55b281d8490f984a352470e4764e.jpg%3Fcrop%3D1.00xw%3A1xh%3Bcenter%2Ctop%26resize%3D480%3A*&imgrefurl=https%3A%2F%2Fwww.elle.com%2Fuk%2Flife-and-culture%2Fg37179160%2Findoor-plants%2F&tbnid=B6fP-W8_HGG6AM&vet=12ahUKEwjY6r-KpZL4AhXUn3IEHf3JAbAQMygSegUIARC4Ag..i&docid=ELcngelusY9u1M&w=480&h=600&q=plant%20images&ved=2ahUKEwjY6r-KpZL4AhXUn3IEHf3JAbAQMygSegUIARC4Ag",
+      "price": 20.72,
+      "id": 10
+    },
+    {
+      "name": "Plant4",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/house-plants-1629187361.jpg?crop=0.288xw:0.577xh;0.0465xw,0.205xh&resize=640:*",
+      "price": 20.72,
+      "id": 11
     }
   ]
 }
